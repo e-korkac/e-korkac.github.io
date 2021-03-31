@@ -1,0 +1,31 @@
+body {
+	font-family: sans-serif;
+	font-size: 17px;
+	font-weight: lighter;
+}
+
+#back
+{
+background: url(../img/back.png);
+background-size: cover;
+}
+
+.content {
+	margin-top: 4%;
+	margin-left: 9%;
+	padding: 1%;
+}
+
+.img {
+	position: absolute; right: 50%; top: 25%;
+}
+
+p {
+	margin: 0%;
+}
+
+ul {
+	margin: 0%;
+}
+
+
